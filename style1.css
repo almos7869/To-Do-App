@@ -1,0 +1,50 @@
+.himage{
+    width: 100%;
+}
+h1{
+    margin-left: 45%;
+    padding-top: 3%;
+    color: coral;
+}
+.inputdiv{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-bottom: 4%;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: rgb(255, 197, 121);
+}
+.bor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    background-color: white;
+    border: coral dotted;
+    margin-bottom: 10px;
+    padding-left: 2px;
+}
+.tasks{
+    width: 100%;
+}
+.para{
+
+    width: 130px;
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+.delete{
+    width: 10%;
+    background-color: orange;
+    color: white;
+}
+.section{
+    background-color: rgb(223, 223, 223);
+    margin: 0% 15% 0% 15%;
+}
